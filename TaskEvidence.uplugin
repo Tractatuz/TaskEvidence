@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "Task Evidence",
+	"Description": "Writes standardized task evidence JSON for automation plugins.",
+	"Category": "Automation",
+	"CreatedBy": "OpenCode",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TaskEvidence",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
